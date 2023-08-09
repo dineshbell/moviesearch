@@ -1,4 +1,35 @@
-# Getting Started with Create React App
+# Movie Search App
+A simple single-page movie search app built using The Movie Database API. The app allows users to search for movies, view search results, apply pagination, sort by release date or rating, and filter by rating.
+
+# Output
+![vend](https://github.com/dineshbell/moviesearch/assets/121668531/d851f180-504c-4c3e-bdb5-581d8a0a9412)
+
+
+# Live Demo
+Check out the live demo of the app hosted on Netlify: Movie Search App Demo
+
+# Features
+Movie name based search using The Movie Database API
+Pagination for navigating through search results
+Sorting search results by movie release date or rating
+Filtering search results by rating
+
+# Technologies Used
+HTML5
+CSS3
+JavaScript
+The Movie Database API
+Netlify for deployment
+
+# Usage
+Visit the live demo link: Movie Search App Demo
+Enter a movie name in the search input field and click the "Search" button.
+Browse through the search results.
+Use the pagination controls to navigate through the search results.
+Click on the "Sort by" dropdown to choose a sorting option: release date or rating.
+Use the rating filter slider to filter movies by rating.
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
